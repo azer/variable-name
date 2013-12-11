@@ -1,6 +1,6 @@
 {
   "name": "variable-name",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Generate a variable name from given string",
   "main": "index.js",
   "scripts": {
