@@ -1,6 +1,6 @@
 ## variable-name
 
-Generate a variable name from given string
+Return a variable name from given string
 
 ## Install
 
