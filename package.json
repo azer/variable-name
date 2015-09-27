@@ -4,10 +4,7 @@
   "description": "Generate a variable name from given string",
   "main": "index.js",
   "scripts": {
-    "test": "fox"
-  },
-  "devDependencies": {
-    "prova": "*"
+    "test": "node test"
   },
   "keywords": [
     "variable",
@@ -22,5 +19,8 @@
   "license": "BSD",
   "dependencies": {
     "anglicize": "0.0.5"
+  },
+  "devDependencies": {
+    "prova": "^2.1.2"
   }
 }
