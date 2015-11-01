@@ -2,6 +2,8 @@
 
 Return a variable name from given string
 
+See also: [to-class-name](http://github.com/azer/to-class-name)
+
 ## Install
 
 ```bash
